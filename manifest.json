@@ -1,6 +1,6 @@
 {
-  "name": "Cahier sanitaire",
-  "short_name": "Cahier sanitaire",
+  "name": "Cahier sanitaire — Travail local",
+  "short_name": "Cahier sanitaire — Travail local",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f3f6f9",
